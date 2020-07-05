@@ -1,5 +1,7 @@
 # eslint-config-personal
 
+[![NPM version](https://img.shields.io/npm/v/@17cliu/eslint-config-personal.svg)](https://www.npmjs.org/package/@17cliu/eslint-config-personal)
+
 This is my personal ESLint config file.
 
 Usage:
